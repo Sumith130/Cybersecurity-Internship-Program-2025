@@ -96,9 +96,9 @@ Cybersecurity-Internship-Program-2025/
 
 ## 🧑‍💻 Author
 
-**Name**: Riya Bhutal
-**Email**: riyabhutal@gmail.com
-**GitHub**: https://github.com/riyabhutal/Cybersecurity-Internship-Program-2025
+**Name**: Sumith Bangera
+**Email**: sumithbangera321@gmail.com
+**GitHub**: https://github.com/Sumith130/Cybersecurity-Internship-Program-2025
 **Institution**: Mumbai University  
 
 ---
